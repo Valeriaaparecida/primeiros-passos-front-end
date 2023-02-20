@@ -1,2 +1,2 @@
-# Primeiro repositório utilizando os comandos no git
-Eu utilizei esse projeto Front End inacabado apenas para poder brincar um pouco com os comandos do Git que eu estou aprendendo 
+# Primeiro repositório Front End
+Utllizei os comandos do Git aprendidos no curso Dev Aprender para criar esse repositório com o primeiro site utilizando CSS e HTML  
