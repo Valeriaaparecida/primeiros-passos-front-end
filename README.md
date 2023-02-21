@@ -1,2 +1,2 @@
 # Primeiro repositório Front End
-Utllizei os comandos do Git aprendidos no curso Dev Aprender para criar esse repositório com o primeiro site utilizando CSS e HTML  
+Nesse repositório estou colocando em prática os aprendizados de manipualção e estilização das páginas de um site utilizando de HTML e CSS, aplicando também os conhecimentos dos comandos do Git
